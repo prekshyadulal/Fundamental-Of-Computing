@@ -1,0 +1,22 @@
+=============================================
+      BUILDMART HARDWARE STORE
+      SALE INVOICE
+=============================================
+Customer Name : Prekshya
+Date          : 2026-08-19 12:52:34
+---------------------------------------------
+Product   : Steel Rod 10mm (Jagadamba Steel)
+Quantity  : 450.0 pcs
+Rate      : Rs.700.00
+Amount    : Rs.315000.00
+Discount  : Rs.15750.00 (5%)
+Sub Total : Rs.299250.00
+---------------------------------------------
+Product   : Paint 20L (Asian Paints)
+Quantity  : 10.0 pcs
+Rate      : Rs.3500.00
+Amount    : Rs.35000.00
+Sub Total : Rs.35000.00
+---------------------------------------------
+TOTAL AMOUNT : Rs.334250.00
+=============================================

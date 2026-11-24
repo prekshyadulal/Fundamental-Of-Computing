@@ -1,0 +1,7 @@
+1, Cement OPC, Shivam Cement, 1000.0, kg, 12.0
+2, Steel Rod 10mm, Jagadamba Steel, 73.0, pcs, 700.0
+3, Paint 20L, Asian Paints, 178.0, pcs, 3500.0
+4, Sand (River), Local Supplier, 5000.0, kg, 2.0
+5, Bricks, Hetauda Bricks, 10000.0, pcs, 15.0
+6, Hammer, Bosch, 163.0, pcs, 500.0
+7, Nails 2inch, Local Supplier, 300.0, kg, 250.0

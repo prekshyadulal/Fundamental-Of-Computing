@@ -1,0 +1,21 @@
+=============================================
+      BUILDMART HARDWARE STORE
+      SALE INVOICE
+=============================================
+Customer Name : Prekshya
+Date          : 2026-08-19 12:55:52
+---------------------------------------------
+Product   : Cement OPC (Shivam Cement)
+Quantity  : 12.0 kg
+Rate      : Rs.12.00
+Amount    : Rs.144.00
+Sub Total : Rs.144.00
+---------------------------------------------
+Product   : Paint 20L (Asian Paints)
+Quantity  : 12.0 pcs
+Rate      : Rs.3500.00
+Amount    : Rs.42000.00
+Sub Total : Rs.42000.00
+---------------------------------------------
+TOTAL AMOUNT : Rs.42144.00
+=============================================
